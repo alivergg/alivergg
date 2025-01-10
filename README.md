@@ -4,4 +4,3 @@ I am mainly engaged in writing telegram bots and web applications for them
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alivergg&show_icons=true&theme=transparent)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alivergg)](https://git.io/streak-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alivergg)](https://github.com/anuraghazra/github-readme-stats)
