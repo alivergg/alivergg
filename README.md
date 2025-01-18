@@ -1,4 +1,4 @@
-👋 Hi, I'm just an junior fullstack developer who finally decided to actively host a github 😄
+👋 Hi, I'm just an junior fullstack developer  😄
 
 I am mainly engaged in writing telegram bots and web applications for them
 
